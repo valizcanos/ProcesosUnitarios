@@ -1,1 +1,3 @@
-# ProcesosUnitarios
+# Procesos Unitarios
+
+<p>El número de procesos para aislar o eliminar una sustancia contaminante en el suelo, agua o aire es elevado. Sin embargo, las etapas que componen cada proceso suelen presentar principios físicos y químicos comunes entre ellas, facilitando su comprensión y análisis. El sector industrial tiene gran responsabilidad en la conservación del ambiente, lo que ha dado lugar a la implementación de modelos alternativos de proceso, tecnologías para el manejo de emisiones, aguas residuales y residuos, producción más limpia, estrategias para la optimización energética y consumo sostenible que permitan disminuir los impactos que pueda generar cada actividad. El Ingeniero Ambiental debe conocer las áreas fundamentales relacionadas con el análisis ambiental de procesos, la planeación, implementación y revisión integral de mecanismos para el control de los aspectos e impactos ambientales generados por la industria. </p>
